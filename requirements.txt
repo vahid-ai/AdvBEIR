@@ -107,7 +107,7 @@ termcolor==2.5.0
 threadpoolctl==3.5.0
 tokenizers==0.21.0
 tomli==2.2.1
-torch==2.5.1
+torch==2.13.0
 torchmetrics>=1.6.1
 tqdm==4.67.1
 transformers==4.48.0
